@@ -46,7 +46,7 @@ export function Navbar() {
               <nav aria-label="Primary" className="flex items-center gap-8">
                 <Link
                   href="/#work"
-                  className="group relative text-[12px] tracking-[0.16em] uppercase text-[color:var(--muted)] hover:text-[color:var(--text)] transition-colors"
+                  className="group relative -mx-2 -my-2 rounded-[10px] px-2 py-2 text-[12px] tracking-[0.16em] uppercase text-[color:var(--muted)] transition-colors hover:text-[color:var(--text)] md:mx-0 md:my-0 md:rounded-none md:px-0 md:py-0"
                 >
                   <span className="relative">
                     Work
@@ -55,7 +55,7 @@ export function Navbar() {
                 </Link>
                 <Link
                   href="/about"
-                  className="group relative text-[12px] tracking-[0.16em] uppercase text-[color:var(--muted)] hover:text-[color:var(--text)] transition-colors"
+                  className="group relative -mx-2 -my-2 rounded-[10px] px-2 py-2 text-[12px] tracking-[0.16em] uppercase text-[color:var(--muted)] transition-colors hover:text-[color:var(--text)] md:mx-0 md:my-0 md:rounded-none md:px-0 md:py-0"
                 >
                   <span className="relative">
                     About
@@ -66,7 +66,7 @@ export function Navbar() {
                   href={site.linkedin}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="group relative text-[12px] tracking-[0.16em] uppercase text-[color:var(--muted)] hover:text-[color:var(--text)] transition-colors"
+                  className="group relative -mx-2 -my-2 rounded-[10px] px-2 py-2 text-[12px] tracking-[0.16em] uppercase text-[color:var(--muted)] transition-colors hover:text-[color:var(--text)] md:mx-0 md:my-0 md:rounded-none md:px-0 md:py-0"
                 >
                   <span className="relative">
                     LinkedIn

@@ -61,18 +61,11 @@ export function HeroVisual({
       transition={{ duration: 0.65, ease, delay: 0.14 }}
       onMouseMove={onMove}
       onMouseLeave={() => setP({ x: 0, y: 0 })}
-      className="absolute right-[-6vw] top-1/2 -translate-y-1/2 z-0 w-[70vw] max-w-[1100px]"
+      className="absolute right-[-6vw] top-1/2 -translate-y-1/2 z-0 hidden w-[70vw] max-w-[1100px] md:block"
       style={reduce ? undefined : { y: driftY, scale: driftScale }}
     >
-      {/* three.js scene (desktop), fallback static line-art (mobile) */}
-      {isMobile ? (
-        <ArchitecturalPlaceholder
-          className="aspect-[16/11] w-full opacity-[0.55]"
-          tone="taupe"
-        />
-      ) : (
-        <HeroWireframe className="aspect-[16/11] w-full" parallax={parallaxSource} />
-      )}
+      {/* three.js scene (desktop only) */}
+      <HeroWireframe className="aspect-[16/11] w-full" parallax={parallaxSource} />
     </motion.div>
   );
 }
