@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#f6f4ef"/>
+  <rect x="80" y="80" width="1440" height="940" fill="none" stroke="#141414" stroke-opacity="0.14" stroke-width="2"/>
+  <g stroke="#141414" stroke-opacity="0.22" stroke-width="2" fill="none">
+    <circle cx="520" cy="560" r="120"/>
+    <circle cx="1080" cy="560" r="120" stroke-opacity="0.16"/>
+    <path d="M640 560 H960"/>
+    <path d="M900 500 L960 560 L900 620"/>
+  </g>
+  <g fill="#141414" fill-opacity="0.40">
+    <text x="120" y="170" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" letter-spacing="3">CIRCULATION DIAGRAM (PLACEHOLDER)</text>
+  </g>
+</svg>

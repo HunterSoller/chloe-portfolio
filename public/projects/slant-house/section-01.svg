@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1250" viewBox="0 0 2000 1250">
+  <rect width="2000" height="1250" fill="#f6f4ef"/>
+  <rect x="90" y="90" width="1820" height="1070" fill="none" stroke="#141414" stroke-opacity="0.14" stroke-width="2"/>
+  <g stroke="#141414" stroke-opacity="0.22" stroke-width="2" fill="none">
+    <path d="M300 900 L640 680 L980 740 L1280 540 L1700 700"/>
+    <path d="M300 900 H1700"/>
+    <path d="M640 680 V900"/>
+    <path d="M1280 540 V900"/>
+  </g>
+  <g stroke="#141414" stroke-opacity="0.12" stroke-width="1" fill="none">
+    <path d="M300 420 H1700"/>
+    <path d="M300 540 H1700"/>
+    <path d="M300 660 H1700"/>
+    <path d="M300 780 H1700"/>
+  </g>
+  <g fill="#141414" fill-opacity="0.40">
+    <text x="140" y="170" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" letter-spacing="3">SECTION (PLACEHOLDER)</text>
+  </g>
+</svg>

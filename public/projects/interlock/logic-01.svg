@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1250" viewBox="0 0 2000 1250">
+  <rect width="2000" height="1250" fill="#f6f4ef"/>
+  <rect x="90" y="90" width="1820" height="1070" fill="none" stroke="#141414" stroke-opacity="0.14" stroke-width="2"/>
+  <g stroke="#141414" stroke-opacity="0.20" stroke-width="2" fill="none">
+    <path d="M520 980 L620 420 L980 420 L1080 980 Z"/>
+    <path d="M980 980 L1060 520 L1420 520 L1500 980 Z"/>
+  </g>
+  <g stroke="#141414" stroke-opacity="0.22" stroke-width="2" fill="none">
+    <path d="M640 700 H1500"/>
+    <path d="M640 700 L740 640" />
+    <path d="M640 700 L740 760" />
+    <path d="M1080 820 L980 760" />
+    <path d="M1080 820 L980 880" />
+  </g>
+  <g fill="#141414" fill-opacity="0.40">
+    <text x="140" y="170" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" letter-spacing="3">STRUCTURAL LOGIC (PLACEHOLDER)</text>
+  </g>
+</svg>

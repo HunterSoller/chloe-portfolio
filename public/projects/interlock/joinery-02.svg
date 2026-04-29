@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#f6f4ef"/>
+  <rect x="80" y="80" width="1440" height="940" fill="none" stroke="#141414" stroke-opacity="0.14" stroke-width="2"/>
+  <g stroke="#141414" stroke-opacity="0.22" stroke-width="2" fill="none">
+    <path d="M520 740 H1080"/>
+    <path d="M520 740 V420 H1080 V740"/>
+    <path d="M720 740 V420" stroke-opacity="0.14"/>
+    <path d="M880 740 V420" stroke-opacity="0.14"/>
+    <circle cx="800" cy="580" r="60"/>
+  </g>
+  <g fill="#141414" fill-opacity="0.40">
+    <text x="120" y="170" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" letter-spacing="3">FRICTION-FIT LOCK (PLACEHOLDER)</text>
+  </g>
+</svg>

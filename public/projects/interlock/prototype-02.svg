@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#f6f4ef"/>
+  <rect x="80" y="80" width="1440" height="940" fill="none" stroke="#141414" stroke-opacity="0.14" stroke-width="2"/>
+  <g stroke="#141414" stroke-opacity="0.26" stroke-width="2" fill="none">
+    <path d="M460 860 L560 320 L840 320 L940 860 Z"/>
+    <path d="M760 860 L840 420 L1120 420 L1200 860 Z"/>
+    <path d="M560 460 H1200" stroke-opacity="0.14"/>
+  </g>
+  <g fill="#141414" fill-opacity="0.40">
+    <text x="120" y="170" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" letter-spacing="3">PROTOTYPE VIEW (PLACEHOLDER)</text>
+  </g>
+</svg>

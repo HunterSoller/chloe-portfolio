@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <rect width="1600" height="1200" fill="#f6f4ef"/>
+  <rect x="80" y="80" width="1440" height="1040" fill="none" stroke="#141414" stroke-opacity="0.18" stroke-width="2"/>
+  <g fill="#141414" fill-opacity="0.55">
+    <text x="120" y="170" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="22" letter-spacing="4">SLANT HOUSE</text>
+    <text x="120" y="210" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" letter-spacing="3" fill-opacity="0.45">ARC 107 � FALL 2025</text>
+  </g>
+  <g stroke="#141414" stroke-opacity="0.35" stroke-width="2" fill="none">
+    <path d="M240 880 L560 520 L1040 640 L1320 360"/>
+    <path d="M260 920 L620 560 L1020 700 L1280 420"/>
+  </g>
+  <g stroke="#141414" stroke-opacity="0.20" stroke-width="1" fill="none">
+    <path d="M240 360 H1320"/>
+    <path d="M240 520 H1320"/>
+    <path d="M240 680 H1320"/>
+    <path d="M240 840 H1320"/>
+  </g>
+</svg>

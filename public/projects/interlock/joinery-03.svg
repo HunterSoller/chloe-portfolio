@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1250" viewBox="0 0 2000 1250">
+  <rect width="2000" height="1250" fill="#f6f4ef"/>
+  <rect x="90" y="90" width="1820" height="1070" fill="none" stroke="#141414" stroke-opacity="0.14" stroke-width="2"/>
+  <g stroke="#141414" stroke-opacity="0.20" stroke-width="2" fill="none">
+    <rect x="520" y="380" width="960" height="520"/>
+    <circle cx="780" cy="640" r="85"/>
+    <circle cx="1220" cy="640" r="85" stroke-opacity="0.14"/>
+    <path d="M865 640 H1135" stroke-opacity="0.14"/>
+  </g>
+  <g fill="#141414" fill-opacity="0.40">
+    <text x="140" y="170" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" letter-spacing="3">DETAIL STUDY (PLACEHOLDER)</text>
+  </g>
+</svg>
