@@ -138,6 +138,37 @@ export function ArchitecturePortfolioSection() {
               objectPosition="center"
             />
           </motion.div>
+
+          <motion.div
+            className="w-full min-w-0"
+            variants={{
+              hidden: reduce
+                ? { opacity: 1, y: 0, scale: 1 }
+                : { opacity: 0, y: 48, scale: 0.98 },
+              show: reduce
+                ? { opacity: 1, y: 0, scale: 1 }
+                : {
+                    opacity: 1,
+                    y: 0,
+                    scale: 1,
+                    transition: {
+                      duration: 0.7,
+                      ease: [0.22, 1, 0.36, 1],
+                    },
+                  },
+            }}
+          >
+            <ProjectGridCard
+              title="Stepped Pavilion"
+              meta="ARC 207 · Fall 2026"
+              description="Artist residence, studio, and exhibition space in a wooded art park in Cazenovia, New York."
+              href="/projects/stepped-pavilion.pdf"
+              tone="taupe"
+              imageSrc="/projects/stepped-pavilion-preview.png"
+              imageAlt="Stepped Pavilion physical model photograph"
+              objectPosition="center"
+            />
+          </motion.div>
         </motion.div>
       </div>
     </section>
